@@ -18,17 +18,33 @@ The application is developed using **Kotlin and Jetpack Compose**, following the
 
 Add your actual application screenshots inside the `screenshots/` folder.
 
-| Home Screen | Subject Screen |
-|---|---|
-| ![Home Screen](assets/login.jpg) | ![Subject Screen](assets/home.png) |
+<table>
+  <tr>
+    <th>Login Screen</th>
+    <th>Home Screen</th>
+  </tr>
+  <tr>
+    <td><img src="assets/login.jpg" width="200" /></td>
+    <td><img src="assets/home.png" width="200" /></td>
+  </tr>
+  <tr>
+    <th>Semester Screen</th>
+    <th>Subject Screen</th>
+  </tr>
+  <tr>
+    <td><img src="assets/semester.jpg" width="200" /></td>
+    <td><img src="assets/subject.jpg" width="200" /></td>
+  </tr>
+  <tr>
+    <th>Unit Screen</th>
+    <th>Downloaded Screen</th>
+  </tr>
+  <tr>
+    <td><img src="assets/unit.jpg" width="200" /></td>
+    <td><img src="assets/downloaded.jpg" width="200" /></td>
+  </tr>
+</table>
 
-| Semester Screen | Subject Screen|
-|---|---|
-| ![Semester](assets/semester.jpg) | ![Subject](assets/subject.jpg) |
-
-| Unit Screen | Downloaded Screen|
-|---|---|
-| ![Units](assets/unit.jpg) | ![Downloaded](assets/downloaded.jpg) |
 
 ## 🛠️ Tech Stack
 
