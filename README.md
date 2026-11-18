@@ -43,6 +43,9 @@ Add your actual application screenshots inside the `screenshots/` folder.
     <td><img src="assets/unit.jpg" width="200" /></td>
     <td><img src="assets/downloaded.jpg" width="200" /></td>
   </tr>
+   <tr>
+    <td><img src="assets/program.jpg" width="200" /></td>
+  </tr>
 </table>
 
 
