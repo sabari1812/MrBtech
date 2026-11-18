@@ -20,11 +20,15 @@ Add your actual application screenshots inside the `screenshots/` folder.
 
 | Home Screen | Subject Screen |
 |---|---|
-| ![Home Screen](assets/home.jpg) | ![Subject Screen](screenshots/subjects.png) |
+| ![Home Screen](assets/login.jpg) | ![Subject Screen](assets/home.png) |
 
-| Important Notes | Question Papers |
+| Semester Screen | Subject Screen|
 |---|---|
-| ![Important Notes](screenshots/important-notes.png) | ![Question Papers](screenshots/question-papers.png) |
+| ![Semester](assets/semester.jpg) | ![Subject](assets/subject.jpg) |
+
+| Unit Screen | Downloaded Screen|
+|---|---|
+| ![Units](assets/unit.jpg) | ![Downloaded](assets/downloaded.jpg) |
 
 ## 🛠️ Tech Stack
 
