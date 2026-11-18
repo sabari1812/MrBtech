@@ -20,7 +20,7 @@ Add your actual application screenshots inside the `screenshots/` folder.
 
 | Home Screen | Subject Screen |
 |---|---|
-| ![Home Screen](screenshots/home.png) | ![Subject Screen](screenshots/subjects.png) |
+| ![Home Screen](assets/home.jpg) | ![Subject Screen](screenshots/subjects.png) |
 
 | Important Notes | Question Papers |
 |---|---|
