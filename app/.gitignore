@@ -1,1 +1,35 @@
 /build
+# Android Studio
+*.iml
+.idea/
+
+# Gradle
+.gradle/
+.kotlin/
+
+# Local configuration
+local.properties
+
+# Build files
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Google Services
+google-services.json
+**/google-services.json
+
+# APK / AAB
+*.apk
+*.aab
+
+# Signing credentials
+*.jks
+*.keystore
+key.properties
+
+# OS files
+.DS_Store
+Thumbs.db
