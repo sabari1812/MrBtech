@@ -25,7 +25,7 @@ Add your actual application screenshots inside the `screenshots/` folder.
   </tr>
   <tr>
     <td><img src="assets/login.jpg" width="200" /></td>
-    <td><img src="assets/home.png" width="200" /></td>
+    <td><img src="assets/home.jpg" width="200" /></td>
   </tr>
   <tr>
     <th>Semester Screen</th>
@@ -108,7 +108,7 @@ app/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MrBTech.git
+git clone https://github.com/sabari1812/MrBTech.git
 ```
 
 2. Open the project in Android Studio.
